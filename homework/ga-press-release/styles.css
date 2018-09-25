@@ -1,0 +1,23 @@
+h1 {
+	color: brown;
+	text-align: center;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 100%;
+}
+
+img {
+	text-align: center;
+}
+
+ul {
+	font-family: sans-serif;
+	text-align: left;
+}
+
+p {
+	text-align: center;
+	font-style: italic;
+}
